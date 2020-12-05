@@ -2,6 +2,8 @@
 This is an example project for the article
 https://medium.com/@shtanko.michael/multiple-layouts-in-react-app-with-react-router-v5-2eb6a065e3c5
 
+[Live preview](https://codesandbox.io/s/modern-pine-lc01g)
+
 ## Available Scripts
 
 In the project directory, you can run:
