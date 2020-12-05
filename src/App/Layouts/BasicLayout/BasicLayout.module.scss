@@ -1,0 +1,25 @@
+.layout {
+	height: 100vh;
+	width: 100wh;
+}
+
+.layoutContent {
+	padding: 50px;
+}
+
+.header {
+	background: #ffffff !important;
+	padding: 0;
+	display: inline-flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.logo {
+	height: 64px;
+	font-size: 1.5rem;
+	display: flex;
+	color: #ffffff;
+	justify-content: center;
+	align-items: center;
+}
